@@ -88,7 +88,7 @@ or
 python start_gui.py
 ```
 
-#### 2. **Configure API Key (Optional but Recommended):**
+#### 2. **Configure API Key :**
 - Click on the "Groq API Key" field
 - Enter your API key from [console.groq.com](https://console.groq.com)
 - Click "👁️" to toggle visibility if needed
