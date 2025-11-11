@@ -95,8 +95,6 @@ python start_gui.py
 - Click "💾 Save" to store your key securely
 - Your key will be saved to `config.ini` and used automatically
 
-> **💡 Tip**: If you don't enter an API key, the app will use a default demo key with limited usage.
-
 #### 3. **Select a video file:**
 - Click the file selection box to browse for videos
 - Supported formats: MP4, AVI, MOV, MKV, WMV, FLV, WEBM, M4V
@@ -318,13 +316,7 @@ temp_dir = temp
 - **Reset**: Delete config.ini to reset to defaults
 - **Backup**: Configuration file can be backed up easily
 
-## Contributing
 
-See `AGENTS.md` for development guidelines and best practices.
-
-## License
-
-This project maintains the same license as the original autosubtitle project.
 
 ## Version History
 
