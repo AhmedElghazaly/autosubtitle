@@ -184,7 +184,6 @@ autosubtitle/
 - **Secure Input**: Password-masked input field with visibility toggle
 - **Persistent Storage**: API keys saved securely in config.ini
 - **Auto-Loading**: Saved keys automatically loaded on startup
-- **Fallback Support**: Default key used if custom key not provided
 
 ### 🚀 Performance Optimizations
 - **Threaded Processing**: GUI remains responsive during processing
@@ -223,14 +222,6 @@ autosubtitle/
 > - Personal usage tracking
 > - More reliable processing
 > - Professional-grade reliability
-
-### Fallback to Default
-
-If you don't provide a custom API key, the application will:
-- Use the built-in demo API key
-- Work for testing purposes
-- Have limited usage quotas
-- Display appropriate status messages
 
 ## Troubleshooting
 
